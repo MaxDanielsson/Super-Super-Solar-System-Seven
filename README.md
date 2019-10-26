@@ -1,4 +1,4 @@
-# Super-Super-Solar-System-Seven
+# Super-Superb-Solar-System-Seven
 A super simple game made by me and a friend for a small physics project. 
 
 Using simple gravitation-formula to make a "simulation" of a solarsystem. 
